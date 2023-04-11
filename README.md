@@ -1,2 +1,3 @@
-My first readme
+My first README
 Updated
+We are making progress
