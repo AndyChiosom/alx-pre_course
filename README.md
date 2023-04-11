@@ -1,3 +1,3 @@
 My first README
 Updated
-We are making progress
+We are making progress as we code
